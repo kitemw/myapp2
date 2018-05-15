@@ -2,7 +2,7 @@
 
 Common Lispのプロジェクトの一例です。フィボナッチ数列。  
 Roswellが必要です。  
-詳細は[https://kitemw.hateblo.jp/entry/2018/05/15/113058]にて。
+詳細は https://kitemw.hateblo.jp/entry/2018/05/15/113058 にて。
 
 ## Usage
 
